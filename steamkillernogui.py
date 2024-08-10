@@ -3,6 +3,7 @@
 
 import psutil  # Import the psutil module for process management
 
+print("Steam Killer: Made by toclick on discord or ToClickx on GitHub")
 def kill_steam_processes():
     """
     Terminates all processes with 'steam' in their name.
