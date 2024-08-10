@@ -35,7 +35,6 @@ def create_gui():
     # Create the main window
     root = tk.Tk()
     root.title("Steam Steam")
-    root.iconbitmap("icon.ico")
 
     # Create a button to trigger process termination
     button = tk.Button(root, text="Terminate Steam Processes", command=kill_steam_processes, padx=20, pady=10)
