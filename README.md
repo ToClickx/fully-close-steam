@@ -1,4 +1,4 @@
-# kill-steam
+# fully-close-steam
 Finally be able to fully close steam without anything running in the background
 If you are not a python coder:
 1. Go to the releases
