@@ -1,5 +1,5 @@
 # This is the version without a gui
-# Make sure to run `pip install psutil`
+# Make sure to run `pip install psutil` before running
 
 import psutil  # Import the psutil module for process management
 
