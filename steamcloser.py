@@ -1,4 +1,5 @@
 # Made by toclick on discord ToClickx on GitHub
+# Make sure to run `pip install psutil` before running
 
 import tkinter as tk
 from tkinter import messagebox
